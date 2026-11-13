@@ -1,0 +1,26 @@
+{
+  "name": "banco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "better-sqlite3": "^13.1.1",
+    "express": "^5.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipefortu33/LivrosSQlite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/felipefortu33/LivrosSQlite/issues"
+  },
+  "homepage": "https://github.com/felipefortu33/LivrosSQlite#readme"
+}
